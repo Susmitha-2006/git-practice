@@ -30,7 +30,5 @@ For better understanding lets create a simple webpage together
 2.Start with HTML document structure
 3.Add some content to body section
 4.Save the file with .html extension
-5. Now open the file in web browser and you can see your web page in action
+5.Now open the file in web browser and you can see your web page in action
 Congrats! you have created your first webpage
-
-
