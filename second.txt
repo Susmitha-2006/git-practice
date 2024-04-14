@@ -1,0 +1,36 @@
+Hi everyone,
+Welcome to this article. In today's digital age, understanding HTML is very essential for anyone who are interested in web development, design, content creation.
+Do you know what is HTML?
+  HTML is a Hypertext Markup Language. It is used to create web pages in internet. The content of webpages is created by using HTML tags.
+So, first let's see what are HTML tags.
+HTML documents are structured using HTML tags, which are enclosed in angle brackets
+The basic structure of HTML document is
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+ </body
+</html>
+where <!DOCTYPE html> tells that the type of the document is html
+HTML offers various tags for formatting, here are some of the basic tags
+<h1> to <h6>         - used for headings
+                     - <h1> size is bigger than <h6>
+<p> </p>             - used for writing paragraphs
+<marquee> </marquee> - used for scrolling of text
+<ol> </ol>           - used for ordered list
+<ul> </ul>           - used for unordered list
+<b> </b>             - used to bold the text
+HTML also allows us to redirect from one webpage to other using hyperlinks(<a> tags).Image tags are used to display images on webpage.
+For these we need attributes like href for hyperlinks and src for images.
+<a href =" ">
+<img src=" ">
+For better understanding lets create a simple webpage together
+1.Open notepad or Visual Studio Code 
+2.Start with HTML document structure
+3.Add some content to body section
+4.Save the file with .html extension
+5. Now open the file in web browser and you can see your web page in action
+Congrats! you have created your first webpage
+
+
